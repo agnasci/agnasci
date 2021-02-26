@@ -8,9 +8,9 @@
 </p>
 
 - :computer: I'm currently working on improving my performance on React;
-- :gear: HTML, CSS, JS, React, Node, TypeScript, Bootstrap, MaterialUI, Docker;
-- :handshake: I am always trying to improve myself and help others.
-- 🤔 I'm considering learning React Native, Angular or some other framework for mobile soon.
+- :gear: HTML, CSS, JS, React, Node, TypeScript, Next.js, Bootstrap, MaterialUI, Docker;
+- :handshake: I am always trying to improve myself and help others;
+- 🤔 I'm considering learning React Native, Angular or some other framework for mobile soon;
 - 💬 I am always trying to improve my English. Feel free to chat with me!
 
 
