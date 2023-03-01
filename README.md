@@ -1,17 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Aguiar</h1>
 <h3 align="center">Front-End Developer</h3>
 
-- 🔭 I’m currently working on **my personal portfolio;**
-
-- 🌱 I’m currently learning **Typescript, Redux and Node;**
-
-- 👯 I’m looking to collaborate on **web projects;**
-
-- 💬 Ask me about **React;**
-
-- 📫 How to reach me: **mathscndev@gmail.com;**
-
-- ⚡ Fun fact **I have more last names than I would like.**
+Hey! My name is Matheus Aguiar do Nascimento, I'm Brazilian, I've been studying web development since the end of 2020 and I've been an undergraduate IT Management student since the beginning of 2021. I've been doing my best to learn as much as I can.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
